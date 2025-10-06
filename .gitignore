@@ -17,6 +17,7 @@
 *.xml
 *.csv
 *.html
+*.drc
 
 # Archivos automáticos de Altium
 *.PrjPcbStructure
