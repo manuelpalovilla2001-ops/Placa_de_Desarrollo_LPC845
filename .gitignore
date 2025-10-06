@@ -1,0 +1,86 @@
+# ========================================
+# .gitignore para proyectos de Altium
+# ========================================
+
+# Archivos temporales y de caché
+*.bak
+*.log
+*.cfg
+*.ini
+*.tmp
+*.ddb
+*.Database
+*.Index
+*.Cache
+*.Zip
+*.ZipTmp
+*.xml
+*.csv
+*.html
+
+# Archivos automáticos de Altium
+*.PrjPcbStructure
+*.PcbDocPreview
+*.SchDocPreview
+*.OutJob
+*.SvnRev
+*.PrjPCBStructure
+*.PrjPcbZip
+
+# Carpetas generadas automáticamente
+__Previews/
+History/
+Project Logs/
+Simulation/
+__Output/
+OutputJob Files/
+Outputs/
+Generated/
+Drafts/
+Compiled Projects Cache/
+
+# Archivos de salida
+*.gbl
+*.gtl
+*.gto
+*.gbp
+*.gbs
+*.gbo
+*.gml
+*.drl
+*.gko
+*.txt
+*.rep
+*.pdf
+*.bom
+*.csv
+*.cam
+*.GTP
+*.GTS
+*.GM1
+*.GM2
+*.GG1
+*.GD1
+*.OutJob
+*.Cache
+*.PrjPCB-Temp
+*.DSN-Temp
+*.LibPkg-Temp
+
+
+# Archivos de usuario o configuración local
+*.PrjPCBStructure
+*.ipr
+*.sublime-project
+*.sublime-workspace
+*.workspace
+*.UserPreferences
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de VSCode u otros editores
+.vscode/
+.idea/
